@@ -2,3 +2,5 @@ granny smith
 honeycrisp
 red delicious
 golden delicious
+fuji
+mcintosh
